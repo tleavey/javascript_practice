@@ -1,0 +1,22 @@
+{
+  "name": "javascript_practice",
+  "version": "1.0.0",
+  "description": "This is a basic example of how to use Jest testing framework with Travis-ci.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest **/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tleavey/javascript_practice.git"
+  },
+  "author": "Tim <timothy.leavey@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tleavey/javascript_practice/issues"
+  },
+  "homepage": "https://github.com/tleavey/javascript_practice#readme",
+  "devDependencies": {
+    "jest": "^23.5.0"
+  }
+}
